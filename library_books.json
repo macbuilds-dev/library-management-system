@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "title": "python",
+        "author": "ammar",
+        "total_copies": 90,
+        "available_copies": 90
+    },
+    {
+        "id": 1,
+        "title": "my book",
+        "author": "ammar",
+        "total_copies": 7,
+        "available_copies": 7
+    }
+]
